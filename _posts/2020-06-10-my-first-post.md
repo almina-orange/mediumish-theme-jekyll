@@ -13,6 +13,5 @@ This is my first post.
 
 ## p5.js test
 
-<script type="text/javascript" src="sketch/Particle.js"></script>
-<script type="text/javascript" src="sketch/ParticleSystem.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/p5.min.js"></script>
 <script type="text/javascript" src="sketch/sketch.js"></script>
